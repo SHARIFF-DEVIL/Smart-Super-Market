@@ -2,7 +2,7 @@ import requests
 import time
 from database.db_manager import execute_query
 
-BOT_TOKEN = "8640303414:AAFskSR-Ss9pTYufaqo9Qeacfb2zxPN7dqk"
+BOT_TOKEN = "Your Bot ID"
 
 last_update_id = 0
 
